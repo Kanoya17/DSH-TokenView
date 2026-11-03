@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "Token Balance Viewer",
-    "description": "Shows token balance and usage in a bottom-left widget with configurable auto-refresh."
+    "description": "Shows token balance (USD) in a top-right pill with a connection status dot, configurable auto-refresh, and click-to-refresh."
   }
 }
