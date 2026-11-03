@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token Balance Viewer",
+    "description": "Shows token balance and usage in a bottom-left widget with configurable auto-refresh."
+  }
+}
